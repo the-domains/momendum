@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Momendum]]></title>
-        <description><![CDATA[Momendum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Azrail'i cana yakın buluyorum]]></title>
+        <description><![CDATA[Azrail'i cana yakın buluyorum]]></description>
+        <link>https://thegrid.ai/momendum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 20:43:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 20:53:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/momendum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test ettim]]></title>
+            <description><![CDATA[<article><h1>Test ettim</h1><p>Test açıklaması</p></article>]]></description>
+            <link>https://thegrid.ai/momendum/test-ettim/index.html</link>
+            <guid isPermaLink="false">c82cae49-325b-4174-92ea-7210b0e0e31d</guid>
+            <pubDate>Wed, 21 Oct 2015 20:52:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[250520142116]]></title>
             <description><![CDATA[<h1>250520142116</h1>]]></description>
-            <link>undefined250520142116/index.html</link>
+            <link>https://thegrid.ai/momendum/250520142116/index.html</link>
             <guid isPermaLink="false">38ec697b-8c96-4d80-a6b8-cd10f1f02add</guid>
             <pubDate>Wed, 21 Oct 2015 20:43:20 GMT</pubDate>
         </item>
